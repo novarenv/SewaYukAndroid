@@ -2,22 +2,22 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/Sb1"
-        android:icon="@drawable/strawberrya"
+        android:icon="@drawable/home-button"
         android:title="Sb1" />
     <item
         android:id="@+id/Sb2"
-        android:icon="@drawable/alpukat1"
+        android:icon="@drawable/message-svgrepo-com"
         android:title="Sb1" />
     <item
         android:id="@+id/Sb3"
         android:icon="@drawable/strawberrya"
         android:title="Sb1" />
-    <item
-        android:id="@+id/Sb4"
-        android:icon="@drawable/strawberrya"
-        android:title="Sb1" />
-    <item
-        android:id="@+id/Sb5"
-        android:icon="@drawable/strawberrya"
-        android:title="Sb1" />
+    <!--<item-->
+        <!--android:id="@+id/Sb4"-->
+        <!--android:icon="@drawable/strawberrya"-->
+        <!--android:title="Sb1" />-->
+    <!--<item-->
+        <!--android:id="@+id/Sb5"-->
+        <!--android:icon="@drawable/strawberrya"-->
+        <!--android:title="Sb1" />-->
 </menu>
